@@ -1,0 +1,9 @@
+#addbtn{
+    float:right;
+    margin-right: 2px;
+}
+
+label.error{
+    color:red;
+    font-size: 10px;
+}
